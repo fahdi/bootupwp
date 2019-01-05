@@ -6850,3 +6850,7 @@
 		}, false );
 	}
 })();
+
+console.log("Fahad is here. Good way to JS right?");
+
+console.log("New JS file");
